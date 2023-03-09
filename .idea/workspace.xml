@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80855fc4-27ed-42ad-b034-a434c7c7821c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MyFirstThread.java" afterDir="false" />
+    <list default="true" id="80855fc4-27ed-42ad-b034-a434c7c7821c" name="Changes" comment="Simple server that listens port and answers beep boop">
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyFirstThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SimpleServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SimpleServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +39,8 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Base" />
+    <configuration name="SimpleServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleServer" />
       <module name="multithreading-practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,7 +48,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Base" />
+        <item itemvalue="Application.SimpleServer" />
       </list>
     </recent_temporary>
   </component>
@@ -65,8 +60,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678375129024</updated>
-      <workItem from="1678375131735" duration="1907000" />
+      <workItem from="1678375131735" duration="4094000" />
     </task>
+    <task id="LOCAL-00001" summary="The most basic multithreading">
+      <created>1678377339118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678377339118</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Simple server that listens port and answers beep boop">
+      <created>1678378928249</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678378928249</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Simple server that listens port and answers beep boop">
+      <created>1678378971998</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678378971998</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +99,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The most basic multithreading" />
+    <MESSAGE value="Simple server that listens port and answers beep boop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple server that listens port and answers beep boop" />
   </component>
 </project>
